@@ -4,7 +4,7 @@ import subprocess
 from datetime import datetime, timedelta
 import random
 
-START_DATE = datetime(2025, 4, 1)
+START_DATE = datetime(2025, 6, 19)
 
 def calculate_days_between(start_date):
     """
